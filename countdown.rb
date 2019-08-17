@@ -9,4 +9,5 @@
 
 def countdown_with_sleep(num)
   1.upto(num) do |num|
+    puts num
 end
