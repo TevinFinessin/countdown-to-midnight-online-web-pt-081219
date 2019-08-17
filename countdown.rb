@@ -12,5 +12,5 @@ def countdown_with_sleep(num)
     puts num
      sleep 1
    end
-   
+   return "Good"
 end
