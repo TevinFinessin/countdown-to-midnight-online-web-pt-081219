@@ -8,5 +8,5 @@
  end 
 
 def countdown_with_sleep(num)
-  1.upto
+  1.upto(num) 
 end
